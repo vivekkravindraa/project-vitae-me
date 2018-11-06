@@ -1,4 +1,4 @@
-# project-vitae-me
+# Vitae-Me
 # Introduction:
 	Generally, having spent so much amount of time in designing and setting up the alignments of the resumes in the never used third-party tools on the most important days of my career. I understood the importance of having a tool which gets us the job done by taking enough textual inputs that are needed to build a quality resume and by providing a few additional and advanced features that minimize the time that has to be spent over building resumes or curriculum vitae(s).
 	This piece of work mainly concentrates on providing features that help a user to build a resume of his own with all the necessary fields that need to be there in a good well-written resume and also gives the feature of generating the resume with different design templates. Thus, helps the users to produce the resumes of their likes and as of industry standards.
