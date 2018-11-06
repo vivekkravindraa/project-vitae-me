@@ -18,12 +18,12 @@ With the base idea of node-express web app development, I started my work on thi
 Initially, I started off setting up a local working environment of my node-express application. Once it was in place, I began to write the actual set of code that is required to do the rest of the work. Even before I could proceed with bringing actual and advanced scenarios into it. I concentrated more on having the schemas in place. Since it gives us the basic implementation of what exactly our work is speaking about.
 It took a while for me to figure out the necessary fields and the data structures that are required in this project. But as and when I put in more thoughts and had discussions with the relevant people, I began to explore lot more needed parts of my application. I started to break it down into pieces and that helped me to classify the schemas that I had planned.
 And then, I have decided to incorporate several models and break it down into pieces so that the readability becomes easier to understand for anyone who gets into it at any point of development. As I chunked the models, I ended up having six models in place. The models are:
-    1. User
-    2. Applicant
-    3. Certification
-    4. Education
-    5. Experience
-    6. Project
+1. User
+2. Applicant
+3. Certification
+4. Education
+5. Experience
+6. Project
     
 ### User:
 
