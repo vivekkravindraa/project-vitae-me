@@ -19,21 +19,21 @@
     4. Education
     5. Experience
     6. Project
-## User:
+### User:
 	Be it any application across the web, you need the users who use it on a frequent basis. When that becomes a reality handling the user with role management will play a crucial role. Hence, my idea was to have a user model that provides us the options to differentiate the role of him as an admin/user. With this, we can also maintain and prevent the access to the parts to our web application.
 	Since security becomes very important, I included the token authentication and authorization system, even before I begin modeling the other parts of the application. It ended up having the security element being set in the form of middleware in which I made use of the most commonly and widely used ‘bcryptjs’ and ‘jwt’ packages.
 	With the addition of ‘bcryptjs’ package, implementing a one-way hash password mechanism, a server does not store plaintext passwords to authenticate a user. Here, a password has a hashing algorithm applied to it to make it more secure.
 	Using JWT you can have a single login system, and that is the trending way of using API Nowadays for the less overhead. Each Request to Login Server generates a token, which can have total or custom permissions for Routes, Directories, Services, and other resources.
-## Applicant:
+### Applicant:
 	Applicant model becomes an important and most required model for this application designing. Since it is being built by keeping them at the center of this whole process.
 The applicant can have a different set of fields as mentioned here: name, email, mobile, his social profile links, about him, relevant skills that he possesses, languages that he’s familiar with, his various interests and his achievements.
-## Certification:
+### Certification:
 	In the current competitive world, the candidate is required or demanded to prove his skills. And this can be achieved probably in various different places but not in the places where he has studied. Since the companies these days are hiring the talents of great skill set it will become important to have certifications in hand. The applicant can have many certifications with these relevant fields: name of the institution, certified by the body, start date and end date of the undergone certification course.
-## Education:
+### Education:
 	The major factor which describes whether a candidate is eligible for a designation or not can only be found by blocks of his education and the skills that he has. Education will fall at the first place in front of any viewer even before he looks into any other aspects of it. Since the applicant can have multiple educations over his time of the study, I decided to put it in segregation and added fields. That is: the institution in which he has studied, the university to which the institute belongs, the study type which explains the combinations he has preferred, the start date, the end date, the place where the institute is situated and the type of grade and actual grade value.
-## Experience:
+### Experience:
 	The experience becomes a major block in proving and showcasing the progress that the candidate has made in his lifetime. It acts as an element that takes a person from a level above in this career from what he’s been doing so far. It has the biggest impact when it comes to any individual. Since many applicants have worked under multiple organizations. It becomes important to have a model as experience along with the type of fields that are described here: name of the company, the position or designation in which he has worked, the website of the company for the transparency and to future contact, the start date, the end date of work duration, the place where the company is situated and the projects the he has been associated with.
-## Project: 
+### Project: 
 	It’s equally important to think about the quality of work and the number of projects that the applicant has worked with his hands on. By keeping the projects in line and at one place. The progress path or the graph of an applicant can be well understood and that could also help the viewer to understand on the type of work in which he spent enough amount of time to gain good rate of experience. Projects are required to have these fields: the title of the project, the technologies used, the brief description about the project and its work, and the link to it if it’s up and running in the real time.
 	Finally, a collective work on the above-specified aspects brought the required schema design in place. And to proceed, the next part of the work is to design the frontend, UI design.
 	I found more insight about the schema design on the internet with the required format and with the technology I was familiar with: 
@@ -44,10 +44,10 @@ https://jsonresume.org/schema/
 	It was with my intentions of developing this application, I was advised to understand the need of having advanced features in it. When it comes to the frontend designing part of an application it’s predictable these days that the users will look for more unique designs to be in place. Hence, I brought in the feature of adding the template in the application which solves the need of an advanced feature and brings more value to the work that the application accomplishes by the end of the day. And the reference to it can be found here:
 http://registry.jsonresume.org/
 https://jsonresume.org/themes/
-## Accomplishment:
+### Accomplishment:
 	The backend is in place and it’s few modifications away to be perfect for the further set of improvements to be performed on it. The relevant code that has been worked upon till now can be found in the GitHub repository. And the link to it is below:
 https://github.com/vivekravindra4/project-vitaeME
-## References:
+### References:
     • https://jsonresume.org/
     • https://represent.io/
     • http://www.doyoubuzz.com/us/
