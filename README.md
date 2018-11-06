@@ -70,9 +70,9 @@ https://github.com/vivekravindra4/project-vitaeME
 
 ### References:
 
-https://jsonresume.org/
-https://represent.io/
-http://www.doyoubuzz.com/us/
-https://resumefodder.com/generate.html
-https://velocv.com/
-https://www.google.co.in/images
+* https://jsonresume.org/
+* https://represent.io/
+* http://www.doyoubuzz.com/us/
+* https://resumefodder.com/generate.html
+* https://velocv.com/
+* https://www.google.co.in/images
