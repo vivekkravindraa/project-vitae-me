@@ -89,7 +89,7 @@ https://jsonresume.org/themes/
 The backend is in place and it’s few modifications away to be perfect for the further set of improvements to be performed on it. The relevant code that has been worked upon till now can be found in the GitHub repository.
 And the link to it is below:
 
-https://github.com/vivekravindra4/project-vitaeME
+https://github.com/vivekravindra4/project-vitae-me
 
 ### References:
 
